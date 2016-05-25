@@ -1,0 +1,12 @@
+[submodule "ios-dog-years"]
+	path = ios-dog-years
+	url = https://github.com/williamliu52/ios-dog-years.git
+[submodule "timer"]
+	path = timer
+	url = https://github.com/williamliu52/timer.git
+[submodule "Is-It-Prime-"]
+	path = Is-It-Prime-
+	url = https://github.com/williamliu52/Is-It-Prime-.git
+[submodule "To-Do-List"]
+	path = To-Do-List
+	url = https://github.com/williamliu52/To-Do-List.git
